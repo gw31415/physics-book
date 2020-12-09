@@ -30,7 +30,7 @@
 電子の軌道の半径を $r$ 、
 電子のド・ブロイ波長を $\lambda$ として
 
-$$2\pi r = n\lambda \quad (n\in\mathbf N)$$
+\[2\pi r = n\lambda \quad (n\in\mathbf N)\]
 
 # 参考
 
