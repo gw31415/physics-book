@@ -1,5 +1,5 @@
-{% include use-katex.html %}
 # 3. その他の量子
+{% include use-katex.html %}
 
 ## 説明したい事柄
 - 粒子であるはずの電子を飛ばすと屈折や回折らしき現象が起こる！
