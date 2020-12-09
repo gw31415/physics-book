@@ -1,3 +1,5 @@
+{% include use-katex.html %}
+
 # 説明したい事柄
 
 ## 原子の安定性
