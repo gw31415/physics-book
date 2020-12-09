@@ -1,5 +1,5 @@
-{% include use-katex.html %}
 # 2. 光
+{% include use-katex.html %}
 
 ## 説明したい事柄
 
