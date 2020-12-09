@@ -1,3 +1,5 @@
+{% include use-katex.html %}
+
 # 説明したい事柄
 
 ## 光電効果
