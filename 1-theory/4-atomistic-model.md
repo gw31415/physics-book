@@ -1,5 +1,4 @@
 # 4. 原子の構造
-{% include use-katex.html %}
 
 ## 説明したい事柄
 
