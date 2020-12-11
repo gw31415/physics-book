@@ -26,10 +26,10 @@ $\alpha$ 崩壊や $\beta$ 崩壊後の、不安定な(エネルギーが高い)
 (以下 $A,B,C,D$ は初期状態や原子の種類によって決まる定数)
 
 個数を $N$ として
-$$-\frac{dN}{dt}=CN$$
-$$-\frac1N\cdot\frac{dN}{dt}=C$$
+\[-\frac{dN}{dt}=CN\]
+\[-\frac1N\cdot\frac{dN}{dt}=C\]
 両辺を $t$ で積分。
-$$-\log N=Ct+D$$
-$$N=-e^{Ct+D}$$
+\[-\log N=Ct+D\]
+\[N=-e^{Ct+D}\]
 $A=e^D, B=e^C$ として
-$$N=AB^t$$
+\[N=AB^t\]
